@@ -1,3 +1,15 @@
+commit 2f47234e021d1bddce62c4290024f09b46007583
+Author: rgoshen <rick.goshen@gmail.com>
+Date:   Sat Aug 8 17:12:46 2020 -0700
+
+    added another file
+
+commit 0e121a6de50f31ccffd1088fb833eb8202555059
+Author: rgoshen <rick.goshen@gmail.com>
+Date:   Sat Aug 8 17:08:22 2020 -0700
+
+    updated lot file
+
 commit 6774f3703b9364b8770eb7f9867499e17479ce98
 Author: rgoshen <rick.goshen@gmail.com>
 Date:   Sat Aug 8 17:02:50 2020 -0700
