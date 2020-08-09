@@ -1,0 +1,11 @@
+commit 1b0f95a25b5c8accde8ee28c1376d017d17888ac
+Author: rgoshen <rick.goshen@gmail.com>
+Date:   Sat Aug 8 17:00:11 2020 -0700
+
+    added second file
+
+commit 792cdd397dfd407797d16c4aa3a9a55166ad3800
+Author: rgoshen <rick.goshen@gmail.com>
+Date:   Sat Aug 8 16:58:47 2020 -0700
+
+    first file for exercise
