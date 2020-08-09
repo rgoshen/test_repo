@@ -1,3 +1,9 @@
+commit 6774f3703b9364b8770eb7f9867499e17479ce98
+Author: rgoshen <rick.goshen@gmail.com>
+Date:   Sat Aug 8 17:02:50 2020 -0700
+
+    printed git log
+
 commit 1b0f95a25b5c8accde8ee28c1376d017d17888ac
 Author: rgoshen <rick.goshen@gmail.com>
 Date:   Sat Aug 8 17:00:11 2020 -0700
